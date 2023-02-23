@@ -1,0 +1,20 @@
+.card:hover{
+  transition: all 0.8s ease-in-out;
+  transform: scale(1.1);
+}
+#icon{
+    top: 42%;
+    left: 90%;
+    color: #000;
+}
+.bottom-text {
+    position: absolute;
+    bottom: 0;
+    padding: 1rem;
+    color: #fff;
+    background-image: linear-gradient(to top, black, transparent);
+}
+.alert-light {
+    height: 80px;
+    width: 355px;
+}
